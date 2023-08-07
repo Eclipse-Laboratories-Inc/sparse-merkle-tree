@@ -1,5 +1,7 @@
 # Sparse merkle tree
 
+This is a fork from [Nervos](https://github.com/nervosnetwork/sparse-merkle-tree), but we replaced the working mode of the hash function blake2b
+
 [![Crates.io](https://img.shields.io/crates/v/sparse-merkle-tree.svg)](https://crates.io/crates/sparse-merkle-tree)
 [Docs](https://docs.rs/sparse-merkle-tree)
 
